@@ -8,14 +8,14 @@ SARS-CoV-2 is a zoonotic virus with documented bi-directional transmission betwe
 
 ## Dataset
 ### WTD data collected in this study
-From November 4, 2021 to April 4, 2022, a total of 9,091 WTD nasal swab samples were collected from 27 participating states either by hunter- or agency-harvest. None of the animals sampled exhibited clinical signs of SARS-CoV-2 infection. Over 95% of the WTD population resides in the Northeast, Midwest, and Southeastern United States, represented by the 27 states from which the samples were collected46. These regions are also where much of the 6 million WTD are harvested annually by hunters47. In the vast majority of cases, a paired blood sample was collected onto a Nobuto filter strip for serological analysis.
+From November 4, 2021 to April 4, 2022, a total of 9,091 WTD nasal swab samples were collected from 27 participating states either by hunter- or agency-harvest. None of the animals sampled exhibited clinical signs of SARS-CoV-2 infection. Over 95% of the WTD population resides in the Northeast, Midwest, and Southeastern United States, represented by the 27 states from which the samples were collected. These regions are also where much of the 6 million WTD are harvested annually by hunters. In the vast majority of cases, a paired blood sample was collected onto a Nobuto filter strip for serological analysis.
 
 ### Public dataset
 All available SARS-CoV-2 genomic sequences (n = 11,778,398 by 2022/07/09) from humans were downloaded from GISAID, and additional genomes (n = 1,020,486 by 2022/04/07) were curated from GenBank. From these sequences, human SARS-CoV sequences were selected from the 23 states where we sampled the WTD sequences. After removing redundant entries and selecting the complete and high coverage sequences, a total of 717,717 SARS-CoV-2 genomic sequences were obtained for this study.  In addition, on December 5, 2022, we downloaded a total of 332 WTD SARS-CoV-2 genomes from GISAID. 
 
 ## Dependencies
 ### Python Dependencies
-Data processing code is developed and tested under Python 3.8.x. The main dependent packages and their versions are as follows. 
+Data processing code is developed and tested under Python 3.8.x. The main dependent packages and their versions are as follows.
     pandas==1.2.4
     biopython==1.79
     ete3==3.1.2
