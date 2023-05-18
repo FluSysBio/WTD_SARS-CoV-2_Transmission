@@ -16,7 +16,6 @@ All available SARS-CoV-2 genomic sequences (n = 11,778,398 by 2022/07/09) from h
 ## Dependencies
 ### Python Dependencies
 Data processing code is developed and tested under Python 3.8.x. The main dependent packages and their versions are as follows.
-    outbreakinfo==0.2.0
 
     pandas==1.2.4
     biopython==1.79
