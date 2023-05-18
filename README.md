@@ -13,4 +13,14 @@ From November 4, 2021 to April 4, 2022, a total of 9,091 WTD nasal swab samples 
 ### Public dataset
 All available SARS-CoV-2 genomic sequences (n = 11,778,398 by 2022/07/09) from humans were downloaded from GISAID, and additional genomes (n = 1,020,486 by 2022/04/07) were curated from GenBank. From these sequences, human SARS-CoV sequences were selected from the 23 states where we sampled the WTD sequences. After removing redundant entries and selecting the complete and high coverage sequences, a total of 717,717 SARS-CoV-2 genomic sequences were obtained for this study.  In addition, on December 5, 2022, we downloaded a total of 332 WTD SARS-CoV-2 genomes from GISAID. 
 
+## Dependencies
+### Python Dependencies
+Data processing code is developed and tested under Python 3.8.x. The main dependent packages and their versions are as follows. 
+    pandas==1.2.4
+    biopython==1.79
+    ete3==3.1.2
+    
+### R Dependencies
+    outbreakinfo==0.2.0
+    
 
