@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/642095603.svg)](https://zenodo.org/badge/latestdoi/642095603)
 # WTD_SARS-CoV-2_Transmission
 
 This is the code related to our paper 'Transmission of SARS-CoV-2 in free-ranging white-tailed deer in the United States' authored by Aijing Feng, Sarah Bevins, Jeff Chandler, Thomas J. DeLiberto, Ria Ghai, Kristina Lantz, Julianna Lenoch, Adam Retchless, Susan Shriner, Cynthia Y. Tang, Suxiang Sue Tong, Mia Torchetti, Anna Uehara, Xiu-Feng Wan.
