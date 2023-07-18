@@ -4,6 +4,7 @@
 This is the code related to our paper 'Transmission of SARS-CoV-2 in free-ranging white-tailed deer in the United States' authored by Aijing Feng, Sarah Bevins, Jeff Chandler, Thomas J. DeLiberto, Ria Ghai, Kristina Lantz, Julianna Lenoch, Adam Retchless, Susan Shriner, Cynthia Y. Tang, Suxiang Sue Tong, Mia Torchetti, Anna Uehara, Xiu-Feng Wan.
 
 Cite this article
+
 Feng, A., Bevins, S., Chandler, J. et al. Transmission of SARS-CoV-2 in free-ranging white-tailed deer in the United States. Nat Commun 14, 4078 (2023). https://doi.org/10.1038/s41467-023-39782-x
 
 ## Abstract
